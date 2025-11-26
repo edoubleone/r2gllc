@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Nov 2025 12:53:06 at https://html.themehour.net/webteck/demo/home-it-company-op.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themehour.net/webteck/demo/home-it-company-op.html -O1 "C:\Users\user\Desktop\R2G" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:06:42	Error: 	"Not Found" (404) at link https://html.themehour.net/webteck/demo/conatct.html (from https://html.themehour.net/webteck/demo/index.html)
+13:06:43	Error: 	"Not Found" (404) at link https://html.themehour.net/webteck/demo/assets/img/normal/process-1-4.png (from https://html.themehour.net/webteck/demo/home-data-analysis.html)
+13:06:43	Error: 	"Not Found" (404) at link https://html.themehour.net/webteck/demo/service-details,html (from https://html.themehour.net/webteck/demo/home-digital-product-landing.html)
+13:06:51	Error: 	"Not Found" (404) at link https://html.themehour.net/webteck/demo/testimonial.html (from https://html.themehour.net/webteck/demo/home-smart.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 48 seconds : 1335 links scanned, 1330 files written (52096937 bytes overall) [40679929 bytes received at 49130 bytes/sec], 18890346 bytes transferred using HTTP compression in 400 files, ratio 37%, 15.0 requests per connection
+(4 errors, 0 warnings, 0 messages)

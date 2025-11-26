@@ -1,0 +1,81 @@
+<div class="th-widget-about">
+  <div class="footer-info">
+    <p class="footer-info_text"><a href="tel:+9159008855" class="text-inherit">+91 590088 55</a></p>
+  </div>
+  <p class="footer-info"><a class="text-inherit" href="mailto:webteck@gmail.com">webteck@gmail.com</a></p>
+  <p class="footer-info">Diamond str, Floor No 05</p>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-xl-auto">
+  <div class="widget widget_nav_menu footer-widget">
+    <h3 class="widget_title style2 text-white">Company</h3>
+    <div class="menu-all-pages-container">
+      <ul class="menu">
+        <li><a href="about.html">What we Offer</a></li>
+        <li><a href="contact.html">Our Story</a></li>
+        <li><a href="blog.html">Latest Posts</a></li>
+        <li><a href="contact.html">Help Center</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="col-md-6 col-xl-auto">
+  <div class="widget widget_offer footer-widget">
+    <h3 class="widget_title style2 text-white">Get the app</h3>
+    <p class="footer-text mb-30">We suggest connecting apps</p>
+    <div class="download-btn-wrap">
+      <div class="mb-10"><a target="_blank" href="https://play.google.com/" class="download-btn"><img
+            src="assets/img/normal/google-play.png" alt=""></a></div>
+      <div><a target="_blank" href="https://www.apple.com/store" class="download-btn"><img
+            src="assets/img/normal/app.png" alt=""></a></div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright-wrap">
+  <div class="container th-container4">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-6">
+        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a
+            href="https://themeforest.net/user/themeholy">Themeholy</a>. All Rights Reserved.</p>
+      </div>
+      <div class="col-lg-6 text-center text-md-end">
+        <ul class="footer-menu">
+          <li><a href="service.html">service</a></li>
+          <li><a href="about.html">about</a></li>
+          <li><a href="contact.html">Articles</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</footer>
+
+<div class="scroll-top"><svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+    <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+  </svg></div>
+
+<script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+<script src="assets/js/swiper-bundle.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/jquery.counterup.min.js"></script>
+<script src="assets/js/circle-progress.js"></script>
+<script src="assets/js/jquery-ui.min.js"></script>
+<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="assets/js/isotope.pkgd.min.js"></script>
+<script src="assets/js/tilt.jquery.min.js"></script>
+<script src="assets/js/gsap.min.js"></script>
+<script src="assets/js/ScrollTrigger.min.js"></script>
+<script src="assets/js/smooth-scroll.js"></script>
+<script src="assets/js/particles.min.js"></script>
+<script src="assets/js/particles-config.js"></script>
+<script src="assets/js/imageRevealHover.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+
+</html>

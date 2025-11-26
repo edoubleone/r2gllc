@@ -1,0 +1,21 @@
+/* Custom CSS for R2G - Increase header/breadcrumb section height */
+
+.breadcumb-area,
+.breadcumb-wrapper {
+    min-height: 350px !important;
+    padding-top: 120px !important;
+    padding-bottom: 120px !important;
+}
+
+.breadcumb-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* Add more spacing after header section */
+.breadcumb-area + section,
+.breadcumb-area + div,
+.breadcumb-wrapper + section,
+.breadcumb-wrapper + div {
+    margin-top: 80px !important;
+}
